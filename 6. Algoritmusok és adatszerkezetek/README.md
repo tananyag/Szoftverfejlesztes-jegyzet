@@ -1,0 +1,1 @@
+## 6. Algoritmusok és adatszerkezetek
