@@ -1,5 +1,6 @@
 #  Szeftverfejlesztés jegyzet
 
+
 ## 1. Informatikai alapismeretek
 
 ### 1.1. 
@@ -32,6 +33,7 @@
 ### 1.10. 
 - Számítógépes játékok: Scratch
 
+
 ## 2. Web alapismeretek
 
 ### 2.1. 
@@ -48,6 +50,7 @@
 
 ### 2.5.
 - HTML űrlapok, HTML események, DOM.
+
 
 ## 3. JavaScript ( ECMAScript )
 
@@ -99,8 +102,10 @@
 ### 3.7. 
 - Vue-CLI
 
+
 ## 4. Adatbáziskezelés
 - NoSQL és SQL adatbázisok (NeDB, MongoDB, SQLite, MySQL, PostgreSQL...).
+
 
 ## 5. Alkalmazásfejlesztés
 
@@ -127,6 +132,7 @@
 
 ### 5.8.
 - Webes IOT és beágyazott rendszerek programozása, RPI-GPIO.
+
 
 ## 6. Algoritmusok és adatszerkezetek
 
