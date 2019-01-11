@@ -1,4 +1,4 @@
-#  Szeftverfejlesztés jegyzet
+#  Szoftverfejlesztés jegyzet
 
 
 ## 1. Informatikai alapismeretek
