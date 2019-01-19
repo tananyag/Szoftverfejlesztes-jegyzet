@@ -3,7 +3,7 @@
 ## Tartalomjegyzék
 ----
 
-- [1. Informatikai alapismeretek](#1-informatikai-alapismeretek)
+- [1. Informatikai alapismeretek](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/tree/master/1.%20Informatikai%20alapismeretek)
 	- [1.1. A számítógép működése](#11-a-szmtgp-mkdse)
 	- [1.2. Operációs rendszerek típusai, funkciói](#12-opercis-rendszerek-tpusai-funkcii)
 	- [1.3. Szöveg fájlok, ASCII, UTF-8. Formázott szöveg (Markdown, KaTeX, ...)](#13-szveg-fjlok-ascii-utf-8-formzott-szveg-markdown-katex-)
