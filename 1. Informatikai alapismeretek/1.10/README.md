@@ -1,2 +1,2 @@
 ### 1.10. 
-- Számítógépes játékok: Scratch
+- A Programozás alapjait bevezető számítógépes játékok (Scratch)
