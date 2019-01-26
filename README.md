@@ -18,3 +18,5 @@
   * [2.3. A böngésző kezelése, fejlesztői eszközök, bővítmények](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/tree/master/2.%20Web%20alapismeretek/2.3)
   * [2.4. CSS szintaxis, színek, doboz modell, szegélyek, szövegformázás, igazítás, CSS szelektorok](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/tree/master/2.%20Web%20alapismeretek/2.4)
   * [2.5. HTML űrlapok, HTML események, DOM](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/tree/master/2.%20Web%20alapismeretek/2.5)
+
+----
