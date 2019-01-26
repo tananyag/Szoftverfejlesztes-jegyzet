@@ -1,5 +1,3 @@
-# Szoftverfejlesztés jegyzet
-----
 ## Tartalomjegyzék
 ----
 
