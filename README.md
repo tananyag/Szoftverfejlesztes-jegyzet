@@ -1,5 +1,3 @@
-![IPO](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/blob/master/fejlec.jpg?raw=true)
-
 ## Tartalomjegyzék
 ----
 
@@ -22,5 +20,3 @@
   * [2.5. HTML űrlapok, HTML események, DOM](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/tree/master/2.%20Web%20alapismeretek/2.5)
 
 ----
-
-![IPO](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/blob/master/etap.jpg?raw=true)
