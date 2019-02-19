@@ -23,4 +23,4 @@
 
 ----
 
-![IPO](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/blob/master/etap.jpg?raw=true)
+![IPO|512x397, 20%](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/blob/master/etap.jpg?raw=true)
