@@ -21,4 +21,4 @@
 
 ----
 
-![IPO]()
+![IPO](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/blob/master/etap.jpg?raw=true)
