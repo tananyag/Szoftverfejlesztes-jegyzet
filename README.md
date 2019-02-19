@@ -23,4 +23,4 @@
 
 ----
 
-![IPO](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/blob/master/etap.jpg?raw=true =250x)
+![IPO](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/blob/master/etap.jpg?raw=true)
