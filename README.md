@@ -1,4 +1,4 @@
-![IPO](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/blob/master/fejlec.jpg?raw=true=200)
+![IPO](https://github.com/tananyag/Szoftverfejlesztes-jegyzet/blob/master/fejlec.jpg?raw=true)
 
 ## Tartalomjegyzék
 ----
