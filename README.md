@@ -1,3 +1,5 @@
+![IPO]()
+
 ## Tartalomjegyzék
 ----
 
